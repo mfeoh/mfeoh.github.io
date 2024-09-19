@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mfeoh.github.io/SZp/sitemap.SZp.gz
